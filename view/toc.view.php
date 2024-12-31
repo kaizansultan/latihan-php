@@ -8,6 +8,8 @@ $sections = [
     'var_dump',
     'heredoc',
     'null',
+    'type_cast',
+    'type_juggle',
 ]
 
 
