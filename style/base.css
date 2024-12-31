@@ -1,0 +1,15 @@
+:root {
+    --cl-main: #5341c9;
+}
+
+body {
+    background-color: #ccc;
+}
+
+#ship {
+    min-height: 100vh;
+    margin: 0 auto;
+    max-width: 800px;
+    display: grid;
+    grid-template-columns: auto max-content;
+}
